@@ -3,7 +3,7 @@
 ## Introduction
 - Author: Jos Hoang Tien
 - Based on ML.NET sample at https://github.com/dotnet/machinelearning-samples/blob/master/README.md  
-- My git: https://github.com/nhannt201  
+- My git: https://github.com/zunokie
 ## How to use this form?
 - You need to download additional data and extract in `\bin\Debug\netcoreapp3.1`  
 Download: https://www.mediafire.com/file/gp8u7a2c0jxeaad/netcoreapp3.1.zip/file  
